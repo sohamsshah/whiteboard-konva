@@ -18,7 +18,7 @@ export const App = () => {
     //deselect when clicking an empty area
     const clickedOnEmpty = e.target === e.target.getStage();
     if (clickedOnEmpty) {
-      setShapes((prev) => ({ ...prev, selectedShapeId: null }));
+      setShapes((prev) => ({ ...prev, selectedShape: null }));
     }
   };
 

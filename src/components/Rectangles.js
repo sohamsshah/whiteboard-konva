@@ -4,12 +4,15 @@ import { Rectangle } from "./Rectangle";
 
 export const Rectangles = () => {
   const {
-    shapes: { rectangles, selectedShapeId },
+    shapes: { rectangles, selectedShape },
     setShapes,
   } = useShapes();
 
   const handleSelect = (e) => {
-    setShapes((prev) => ({ ...prev, selectedShapeId: e.target.id() }));
+    setShapes((prev) => ({
+      ...prev,
+      selectedShape: { id: e.target.id(), type: "rectangle" },
+    }));
   };
 
   const handleShapeTransform = (updatedRectangle) => {
@@ -35,7 +38,7 @@ export const Rectangles = () => {
       height={rectangle.height}
       fill={rectangle.fill}
       draggable
-      isSelected={selectedShapeId === rectangle.id}
+      isSelected={selectedShape?.id === rectangle.id}
       onSelect={handleSelect}
       onChange={handleShapeTransform}
     />

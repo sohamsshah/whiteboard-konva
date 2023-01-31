@@ -60,11 +60,26 @@ export const Toolbar = () => {
       }
     }
   };
+
+  const handleDeleteSelected = () => {
+    const shapeToBeDeleted = shapes.selectedShape;
+    if (shapeToBeDeleted.type === "rectangle") {
+      const updatedRectangles = shapes.circles.filter(
+        (rectangle) => rectangle.id !== shapeToBeDeleted.id
+      );
+      setShapes((prev) => ({
+        ...prev,
+        rectangles: updatedRectangles,
+      }));
+    }
+  };
+
   return (
     <div className="controls">
       <button onClick={handleAddRectangle}>Add rectangle</button>
       <button onClick={handleAddCircle}>Add circle</button>
       <button onClick={handleDragToolToggle}>Toggle Drag</button>
+      <button onClick={handleDeleteSelected}>Delete</button>
       <button onClick={handleUndo}>Undo</button>
     </div>
   );

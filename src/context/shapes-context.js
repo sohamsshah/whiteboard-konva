@@ -6,7 +6,7 @@ const initialState = {
   circles: [],
   rectangles: [],
   history: [],
-  selectedShapeId: null,
+  selectedShape: null,
 };
 
 export const ShapesProvider = ({ children }) => {
