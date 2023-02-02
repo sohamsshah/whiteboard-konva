@@ -1,10 +1,12 @@
 import { createContext, useContext, useState } from "react";
+import { DEFAULT_NOTES } from "../utils/constants";
 
 const ShapesContext = createContext();
 
 const initialState = {
   circles: [],
   rectangles: [],
+  notes: DEFAULT_NOTES,
   history: [],
   selectedShape: null,
 };

@@ -2,6 +2,7 @@ import React from "react";
 import { Stage, Layer, Rect } from "react-konva";
 import "./App.css";
 import { Circles } from "./components/Circles";
+import { Notes } from "./components/Notes";
 import { Rectangles } from "./components/Rectangles";
 import { Toolbar } from "./components/Toolbar";
 import { useShapes } from "./context/shapes-context";
@@ -40,6 +41,7 @@ export const App = () => {
         <Layer>
           <Rectangles />
           <Circles />
+          <Notes />
         </Layer>
       </Stage>
     </div>
