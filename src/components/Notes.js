@@ -10,8 +10,7 @@ export const Notes = () => {
     setShapes,
   } = useShapes();
 
-  const customNote = generateDynamicNote(CUSTOM_NOTE);
-  console.log(customNote);
+  // const customNote = generateDynamicNote(CUSTOM_NOTE);
   const handleSelect = (e) => {
     setShapes((prev) => ({
       ...prev,
@@ -37,13 +36,13 @@ export const Notes = () => {
 
   return (
     <>
-      <Note
+      {/* <Note
         key={customNote.id}
         id={customNote.id}
         x={customNote.x}
         y={customNote.y}
         title={customNote.title}
-        // comment={customNote.comment}
+        comment={customNote.comment}
         name={customNote.name}
         labels={customNote.labels}
         width={customNote.width}
@@ -59,7 +58,7 @@ export const Notes = () => {
         onDragEnd={handleDragEnd}
         // isSelected={selectedShape?.id === customNote.id}
         onSelect={handleSelect}
-      />
+      /> */}
       {notes.map((note) => (
         <Note
           key={note.id}
