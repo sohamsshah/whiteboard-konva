@@ -1,0 +1,931 @@
+{
+  "count": 188,
+  "notes": [
+    {
+      "owner": {
+        "name": "Jaya Manchanda",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/12.png",
+        "id": 431,
+        "email": "jaya@userfocus.app"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-11-01T12:17:28.490236+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Lattice new users",
+        "id": 48047
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 30, "text": "Suggestion" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Another thought here is, I was wondering if it would be possible as you're thinking about this product in general. I know this, this is, your, your company. I was wondering if it's possible if you go back to the notetaking feature, I always find it personally a little bit jarring that it goes down because you're continuing the story. So it's almost like I want it flipped. So then the history goes up higher and as I'm adding more comments, it goes up instead of it going down, does that make sense?",
+      "tag_id": 50353,
+      "comment": "Suggestion:\n\nFor live notes, notes should go up higher on adding more comments instead of  going down.",
+      "key": "a6d37549-47f6-4d77-b78a-a94866b04ba8",
+      "label_parents": { "data": [[], []] },
+      "id": 50353,
+      "event_id": 51071
+    },
+    {
+      "owner": {
+        "name": "Jaya Manchanda",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/12.png",
+        "id": 431,
+        "email": "jaya@userfocus.app"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-11-01T12:12:59.654925+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Lattice new users",
+        "id": 48047
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 9, "text": "Feature request" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Yeah, I think one thing that tends to trip up our team is the fact that this room doesn't open until literally the meeting starts or literally until the recording starts and that really prevents us from being ready for the call, which we sometimes like to do like a few minutes before hand, it's almost like during the intro session that you're doing with your your participants you're still trying to do some of these like preparation because it only opens like in the moment, if that makes sense.",
+      "tag_id": 50352,
+      "comment": "Issue that the banner doesn't show up until the recording/meeting starts which prevents them from being ready for the call beforehand.",
+      "key": "40db7de5-0d48-44fa-80c2-2aeb22ae1cfb",
+      "label_parents": { "data": [[], []] },
+      "id": 50352,
+      "event_id": 51070
+    },
+    {
+      "owner": {
+        "name": "Jaya Manchanda",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/12.png",
+        "id": 431,
+        "email": "jaya@userfocus.app"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-11-01T12:11:43.507279+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Lattice new users",
+        "id": 48047
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 2837, "text": "Question asked" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Is a very quick question. Does that mean it's attached to your calendar invite or is anybody, can you have multiple instances of call happening at the same time? You can have multiple instances of color at the same time. So no calendar in in included. This is based on purely based on who is participating in this? How do you? So like if I go home and I see that banner at the top, if I got invited to two meetings, will it show which ones it is or like which one is that?",
+      "tag_id": 50351,
+      "comment": "Question/Confusion about the live notes banner\na. Is the link to the live notes page attached to the calendar invite?\nb.  If someone is invited to two meetings, which banner will show up",
+      "key": "8ca95a82-d400-4991-bd33-8c4ab5c5bbcd",
+      "label_parents": { "data": [[], []] },
+      "id": 50351,
+      "event_id": 51069
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-10-18T18:47:42.375788+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Matt Kropp from BCG",
+        "id": 44665
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 3048, "text": "Note taking" },
+          { "id": 1134, "text": "Process" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Exactly exactly and then you can see stuff like you can actually get that, that concept, you hit the nail on its head map, That concept of using a simple hashtag because most consultants are very familiar so that our young people are very familiar with the concept of hash tagging. So you know we can talk, so for example right now we're talking about like notes, you can just say notetaking you know here we talked about this, we talked about process he spoke about And then basically what you've said is we have tag this part of the conversation with these concepts and the same thing we can do with questions like everybody comes in prepared with interview script, it's a separate, it's in a separate document, we have added that together. So when you're calling these, when you're doing these questions, you can just tag those questions and say you prepare reports, use excel",
+      "tag_id": 47661,
+      "comment": "We spoke about note taking.",
+      "key": "bb02991c-bdfa-4845-be10-41deaca6a032",
+      "label_parents": { "data": [[], [], []] },
+      "id": 47661,
+      "event_id": 48379
+    },
+    {
+      "owner": {
+        "name": "Jaya Manchanda",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/12.png",
+        "id": 431,
+        "email": "jaya@userfocus.app"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-09-14T11:53:06.242144+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Design team demo - Nylas team",
+        "id": 35109
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 2837, "text": "Question asked" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Just one question. It felt like that there can be multiple interview  participating in this process, but since right now it's just you who's typing the notes? It's a little hard to tell. but let's say like chantel and I both are capturing notes in parallel for an interview In that Case and the time stamps might be the same time stamps that are captured. So will those two comments get over laid with the same time stamp? Like how does that get managed? Just curious about that.",
+      "tag_id": 40016,
+      "comment": "Question asked : What happens if multiple people are taking live notes in parallel",
+      "key": "28b818ed-890f-497d-841e-4375f7d49912",
+      "label_parents": { "data": [[], []] },
+      "id": 40016,
+      "event_id": 40734
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-09-03T17:12:54.161872+00:00",
+      "title": "Could you walk me through your current work like?",
+      "wav": { "file_type": "VIDEO", "name": "SKP onboarding", "id": 33613 },
+      "question_id": 12979,
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 1134, "text": "Process" },
+          { "id": 3048, "text": "Note taking" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "So if I ask this question but could you walk me to your current work? So let me say well could you walk me through your to your current book looks like let's say and then say they spoke about again said we're not taking hashtag live NOTES hashtag six I should not taking life. And then as we go through as they finish answering, walking you through the current work, when that part of the conversation is over, I press return at that point when I started tagging it, when I press a ton, is that part of the conversation gets tagged with? This was the question that was asked.",
+      "tag_id": 37565,
+      "comment": "They spoke about note-taking.",
+      "key": "1b776aec-8ea4-48c0-b465-3cc0c4fb966b",
+      "label_parents": { "data": [[], [], []] },
+      "id": 37565,
+      "event_id": 38283
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-09-03T17:11:47.552451+00:00",
+      "title": "",
+      "wav": { "file_type": "VIDEO", "name": "SKP onboarding", "id": 33613 },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 1134, "text": "Process" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Okay, so you and you'll see this is a quick note about notetaking you'll you'll also see, I'll show it in a minute, you know when this note was taken, what was being discussed you know what's the transcript was the video recording Okay, what that means is instead of furiously typing out what Interview you're saying you you can just use this notetaking as a way to add context to each to what's happening in the interview at that point in time. Okay, so you can say stuff like we discussed notetaking hashtag LIVE notes hashtag Process and then when we and then press return and then basically what we're doing is as we are talking about notetaking we are tagging that part of the conversation with these two new books okay and you can even go further because what we'll do is we'll show you kind of give you a place you're gonna add your interview script, you can start to kind of even tag the questions as you're asking to your to the as you ask you those questions, you can tag those questions as you ask them. Right?",
+      "tag_id": 37564,
+      "comment": "WE discussed note-taking.",
+      "key": "68616a5a-bb5f-4cc5-a193-8d81c3751956",
+      "label_parents": { "data": [[], []] },
+      "id": 37564,
+      "event_id": 38282
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-09-02T20:12:06.855971+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Meeting - Prayag Narula's Personal Meeting Room",
+        "id": 33384
+      },
+      "labels": { "data": [{ "id": 31, "text": "Live notes" }] },
+      "is_quote": false,
+      "subtitle": "Like you can just add some context. So if in this call, if I was taking notes I would say we spoke about hashtag like notes and took notes together. Yeah hashtag say demo okay and then I'll press the turn when we moved on. We have basically what we have said is from this point at this time the interview, this was you know this is kind of what was happening and more importantly we have had that part of the conversation with a few hashtags okay you can do actually even even more interesting stuff with it for example that is there are questions, the script that you that that you follow, that you would want to follow in an interview would be available right here.",
+      "tag_id": 37421,
+      "comment": "WE spoke about live notes and took notes together.",
+      "key": "5d9275a8-837d-494b-9b23-6c4723924bdc",
+      "label_parents": { "data": [[]] },
+      "id": 37421,
+      "event_id": 38139
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-09-01T16:19:27.277488+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Onboarding meeting with Rakuten",
+        "id": 32860
+      },
+      "labels": { "data": [{ "id": 31, "text": "Live notes" }] },
+      "is_quote": false,
+      "subtitle": "You know, we were talking about note taking app and no talking typing extensively off like, you know, louis is no taking process. I can just type lewis showed us his notes. Oops, hashtag all right. There's a delay. Oh my hashtag like that. Okay. And then as I did that. And then I'll press the turn as I did that, that part of the conversation is basically tagged with live notes. Next time I'm looking for like anything talking about like notes, I can go to this or I have a I have the script that I'm supposed to ask during these user interviews.",
+      "tag_id": 36871,
+      "comment": "Lewis showed us his noted.",
+      "key": "648482f9-3b18-4c85-97aa-b2b5acf8eb7e",
+      "label_parents": { "data": [[]] },
+      "id": 36871,
+      "event_id": 37589
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-27T09:38:13.189888+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Anna Gibson from Stanford - acamdemia - annotated - nothing much",
+        "id": 23450
+      },
+      "labels": { "data": [{ "id": 31, "text": "Live notes" }] },
+      "is_quote": false,
+      "subtitle": "Doesn't like distracting when you're doing that, that I feel like it might",
+      "tag_id": 27923,
+      "comment": "Taking live notes can be distracting",
+      "key": "f356942b-b3a1-4266-b3b4-96f6625f530d",
+      "label_parents": { "data": [[]] },
+      "id": 27923,
+      "event_id": 28644
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-15T10:53:33.344909+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with MS academics - annotated",
+        "id": 22425
+      },
+      "labels": {
+        "data": [
+          { "id": 63, "text": "Likes" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "I was gonna say the best thing I like is the live Note taking great. And that's kind of a big requirement for us. I mean it would mean purposely answer because I hardly know how to stuff it to a lot of the same things, but but the way this pulls out the structure from the script as well as the tags I think kind of transcribes using that. That's pretty neat. That's pretty cool. And I don't like the light taking is the best, it's kind of, I think missing an article current software.",
+      "tag_id": 26517,
+      "comment": "Guy feels that Live notes is the distinguishing feature from QDAs",
+      "key": "471e7a1f-7d8a-4a7f-9d45-bd5a43feb759",
+      "label_parents": { "data": [[], []] },
+      "id": 26517,
+      "event_id": 27238
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-15T10:13:06.005442+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with MS academics - nothing much",
+        "id": 22589
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 2837, "text": "Question asked" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "It's perfect. and then my next question is, so how we do interviews is that we start off not recording and then we kind of go over our consent form a Gobert consent process and then we turn on recording. Can we still use the live coding features then?",
+      "tag_id": 26506,
+      "comment": "What if I start the recording from the middle of the call",
+      "key": "f47970e8-9c45-4e6a-91f4-c5ec970fc130",
+      "label_parents": { "data": [[], []] },
+      "id": 26506,
+      "event_id": 27227
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-05T18:19:54.763840+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 11697
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 2837, "text": "Question asked" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Do you have to click anything in zoom in terms of recording for it to record and UserFocus",
+      "tag_id": 24646,
+      "comment": "Is there a process on zoom to take live notes? \"Do you have to press anything on Zoom to rexord\"",
+      "key": "16f51377-3621-49e0-b1c8-d068cba181b2",
+      "label_parents": { "data": [[], []] },
+      "id": 24646,
+      "event_id": 25367
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-05T18:18:01.783801+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 11697
+      },
+      "labels": {
+        "data": [
+          { "id": 2837, "text": "Question asked" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "How the UserFocus No, to which project do I want to save each of the introduce and the other question is do I have to be the host of the meeting to be able to take notes and record the meeting into a project or for example in this case you are the host, what if I just want to take notes about this particular meeting? I I am kinda, I mean am I able to do it?",
+      "tag_id": 24645,
+      "comment": "Can only the host take live notes?",
+      "key": "3e5e6851-264c-460e-b087-f76516af082e",
+      "label_parents": { "data": [[], []] },
+      "id": 24645,
+      "event_id": 25366
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-05T18:16:13.202187+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 11697
+      },
+      "labels": {
+        "data": [
+          { "id": 2837, "text": "Question asked" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Userfocus where Exactly is this? Taking notes? Are you on your",
+      "tag_id": 24644,
+      "comment": "Where exactly is \"take live notes\"",
+      "key": "25059d1b-6737-4e3a-bf5c-4713af17c6e2",
+      "label_parents": { "data": [[], []] },
+      "id": 24644,
+      "event_id": 25365
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-05T11:28:23.838574+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 13680
+      },
+      "labels": {
+        "data": [
+          { "id": 2837, "text": "Question asked" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "So I give Ryan's the host, but he's not going to be in the interview. He still needs to have a leading up, He just needs to connect his own is all gone. And then then the alternative alternative on UserFocus So at the time of the meeting, Ryan's the host where alternate hosts, he doesn't need to be on the",
+      "tag_id": 24611,
+      "comment": "There's confusion about \"If Ryan is the host and if he is not in the meeting, how will we take notes\"",
+      "key": "50ddc03e-09ad-4313-a5c4-821e6a1c4809",
+      "label_parents": { "data": [[], []] },
+      "id": 24611,
+      "event_id": 25332
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-05T11:25:15.263125+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 13680
+      },
+      "labels": {
+        "data": [
+          { "id": 2837, "text": "Question asked" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Okay I'm a little confused about that because like my you know mine is set up and I still can choose cloud or computer",
+      "tag_id": 24610,
+      "comment": "About the Zoom recording setting. Local vs. cloud etc.",
+      "key": "f92efd6c-6dea-4efb-9aab-7d3851c41936",
+      "label_parents": { "data": [[], []] },
+      "id": 24610,
+      "event_id": 25331
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-05T06:49:10.691247+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Europe SKP team - annotated",
+        "id": 15557
+      },
+      "labels": {
+        "data": [
+          { "id": 63, "text": "Likes" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "If it's it's like this, then I will try it. You do not take full notes because it's the first time but still recorded have transcript will be will be amazing actually. Yeah",
+      "tag_id": 24574,
+      "comment": "Lenny likes the idea of taking live notes, call recorded and transcribed automatically",
+      "key": "e602a3be-2998-4613-881a-443fb2e1d486",
+      "label_parents": { "data": [[], []] },
+      "id": 24574,
+      "event_id": 25295
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-05T06:27:55.637399+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Europe SKP team - annotated",
+        "id": 15557
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 2543, "text": "Objection" }
+        ]
+      },
+      "is_quote": true,
+      "subtitle": "I can see that I could, you know, I miss my attention because I'm looking for the questions and so on. Yeah, I guess it's a matter of practice, but you know, it's",
+      "tag_id": 24570,
+      "comment": "Carolina doesn't want to take Live notes because it would distract her from the interview",
+      "key": "3b17bd6e-1a3e-4a6e-9179-b8d4c9339c6c",
+      "label_parents": { "data": [[], []] },
+      "id": 24570,
+      "event_id": 25291
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-02T13:46:01.353721+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 16039
+      },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 2837, "text": "Question asked" },
+          { "id": 63, "text": "Likes" },
+          { "id": 28, "text": "Questions/Discussion Guide/Script" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Second but one of my questions was with regard to How you take notes During the interview. So can you pre load those questions or have those ready to go and then click and say ok we're starting now, That's exactly that's exactly so these questions on the side, you see these questions, these are all preloaded, Questions So yeah, so, so as you ask a question, you just click on it. That's amazing. Yeah, this is super cool.",
+      "tag_id": 24446,
+      "comment": "Madline wants to know about Live notes. She said \"thats amazing\" about writing questions and using them on Live notes",
+      "key": "df32c015-13d2-46f4-82ea-c68145b7bb5f",
+      "label_parents": { "data": [[], [], [], []] },
+      "id": 24446,
+      "event_id": 25167
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-02T12:54:35.873299+00:00",
+      "title": "Asks \"do you have to be the host of the call to use features/take live notes\"\"",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP Life Science team - annotated",
+        "id": 16117
+      },
+      "labels": {
+        "data": [
+          { "id": 2837, "text": "Question asked" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Oh yeah, I have a question, so we do have to be the host of the zoom call in order to use these features and take notes, live Somebody from your team has to be a hope. So this is all multiplayer. Right? So if anybody on your team is the host, you can take notes on that meeting. You can, you know, we'll be able to pull the recording but somebody needs to give us permission to say it's okay to go and pull the recording from zoom. and if your if your client is the host, they haven't given us that permission. Okay. So for example, if I make a recurring zoom invite and add my whole team as co hosts and that link is going to be used like repeatedly. So if they are a host on that call, they can use the system and take notes themselves.",
+      "tag_id": 24437,
+      "comment": "Need to make it clear that ANYONE who has integrated with UF, can take notes.",
+      "key": "f77bb802-2175-48d8-86f5-0e43fca9b668",
+      "label_parents": { "data": [[], []] },
+      "id": 24437,
+      "event_id": 25158
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-02T11:03:47.069273+00:00",
+      "title": "Jenn is smiling and says \"Sounds good.. taking notes while watching video\"",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 16942
+      },
+      "labels": {
+        "data": [
+          { "id": 63, "text": "Likes" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "Okay, sounds good. Yeah, this is a bit like you than me, you can think north when you're watching a video. Yeah, this is great. Yeah.",
+      "tag_id": 24434,
+      "comment": "Can't tell if she means live notes or annotation or what",
+      "key": "23c3c8fe-f15d-4533-bf23-ef53b74186d3",
+      "label_parents": { "data": [[], []] },
+      "id": 24434,
+      "event_id": 25155
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-02T11:01:17.853595+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 16942
+      },
+      "labels": {
+        "data": [
+          { "id": 63, "text": "Likes" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "That's great. I like it a lot. My question on doing it live if we're in say they're like eight of us in their warns, will it recognize that we're in a meeting that is being recorded Even if it isn't us?",
+      "tag_id": 24433,
+      "comment": "Says \"I like it a lot\" about Live notes",
+      "key": "1ae4e5f5-c568-4335-abfa-7232f31381ed",
+      "label_parents": { "data": [[], []] },
+      "id": 24433,
+      "event_id": 25154
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-02T11:00:50.819386+00:00",
+      "title": "Couldn't understand how does the Live notes start.. As in Who has to start the meeting. How will it recognize who is in the meeting.",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with SKP team - annotated",
+        "id": 16942
+      },
+      "labels": {
+        "data": [
+          { "id": 2837, "text": "Question asked" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "That's great. I like it a lot. My question on doing it live if we're in say they're like eight of us in their warns, will it recognize that we're in a meeting that is being recorded Even if it isn't us? Like how does that work? Does the person who get record and is having the recording saved have to be the one that kind of kicks us off to do it during, to take notes during the call.",
+      "tag_id": 24432,
+      "comment": "And later asks \"and anybody can take notes?\"",
+      "key": "b2f7b4af-be9d-4e02-a3f2-1d3ed8c291d2",
+      "label_parents": { "data": [[], []] },
+      "id": 24432,
+      "event_id": 25153
+    },
+    {
+      "owner": {
+        "name": "Chirag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/31.png",
+        "id": 11,
+        "email": "chirag.narula@gmail.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-07-02T08:01:53.831544+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Demo with Annie Xie (from SK) - not much here",
+        "id": 18792
+      },
+      "labels": {
+        "data": [
+          { "id": 2837, "text": "Question asked" },
+          { "id": 31, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "So then does it only work if someone on your team or who has a UserFocus account is running the meeting? Like say for example if my zoom account is linked to my account to UserFocus right now, right, these recordings would only work if I'm the one who set them up.",
+      "tag_id": 24420,
+      "comment": "Will I have to be in the meeting to record it?",
+      "key": "495f1e3f-8e88-4cbc-89f2-61fe20332d83",
+      "label_parents": { "data": [[], []] },
+      "id": 24420,
+      "event_id": 25141
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-04-19T17:24:07.232969+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Lattice - Product Marketing",
+        "id": 8658
+      },
+      "labels": { "data": [{ "id": 31, "text": "Live notes" }] },
+      "is_quote": false,
+      "subtitle": " So while you're taking notes you're annotating the interviews in real time. Okay, so I can say for example, simple stuff like this is a and important part of the call because yeah, talking about limits and then I can say, oh by the way, I also want to tag this in real time, you know, time, this one. Oh I'm nuts. Mm And then as I press return from 24, so we have these notes at time stamps of 20-41-23 or four. This has basically become, you know, we detected when you started the typing with detective ring ended and that becomes kind of the allocation at the back. It",
+      "tag_id": 12500,
+      "comment": "This is an important part of the call because we are talking about live notes. ",
+      "key": "87d199f1-4056-44d2-bcca-7bbe2fef0b86",
+      "label_parents": { "data": [[]] },
+      "id": 12500,
+      "event_id": 13210
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 1,
+      "project": { "id": 249 },
+      "created_at": "2021-03-07T18:06:28.255288+00:00",
+      "title": "",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Archit Johan AT Kearney PII filtered",
+        "id": 4522
+      },
+      "labels": {
+        "data": [
+          { "id": 216, "text": "Text analysis" },
+          { "id": 361, "text": "Repository" },
+          { "id": 376, "text": "Live notes" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": "recorded. ### charges a little bit for it if you can give us a written transcript of the call as well. Got it. How about the internal calls that you're doing? Are they the same? No, they're not recorded. I mean, we all take notes. Some people prefer to take notes on iPad, which I do write it out. Some people just directly prefer to type on a laptop while they're speaking. It just personal preferences. Got it. But these conversations are not recorded. No. Okay. Why not? I'll just be uncomfortable thinking about privacy thing if like every call of mine is recorded. Right, got it.",
+      "tag_id": 7391,
+      "comment": "Everyone is supposed to takes notes and recorded. Internal conversations are not recorded. Uncomfotable from privacy point of view.",
+      "key": "0f9f3104-b3a0-4aea-88a0-480077cc6d05",
+      "label_parents": {
+        "data": [
+          [
+            { "id": 254, "text": "Artificial Intelligence Based Features" },
+            { "id": 393, "text": "Missing Features" }
+          ],
+          [{ "id": 346, "text": "Product Features" }],
+          [{ "id": 346, "text": "Product Features" }]
+        ]
+      },
+      "id": 7391,
+      "event_id": 8156
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 1,
+      "project": { "id": 249 },
+      "created_at": "2021-02-11T19:11:12.904044+00:00",
+      "title": "First 4 weeks of projects are user interviews",
+      "wav": {
+        "file_type": "VIDEO",
+        "name": "Jasper - Ex-Bain Consultant",
+        "id": 3205
+      },
+      "labels": {
+        "data": [
+          { "id": 225, "text": "Behaviour" },
+          { "id": 261, "text": "Buy Decision" },
+          { "id": 184, "text": "Goal/Aim" },
+          { "id": 2723, "text": "Analysis" },
+          { "id": 14903, "text": "Qual Interviews" },
+          { "id": 376, "text": "Live notes" }
+        ]
+      },
+      "is_quote": true,
+      "subtitle": "And so on that team on that team of five people, two of those people might spend the first four weeks of the project just doing phone calls, like all day, doing the phone calls, transcribing the interviews, synthesizing the stuff And, you know, going back to the team and being like this is what we learned about this part of the industry. This is where they think the trends are etcetera, etcetera. Uh, it is even more pronounced in private equity. Diligence is, which is a huge part of Bain's business and increasingly",
+      "tag_id": 4978,
+      "comment": "Just doing phone calls. Transcribing + syntehsizing.",
+      "key": "2052d665-a5b9-440c-a1ee-51fa4dc7b6ae",
+      "label_parents": {
+        "data": [
+          [],
+          [{ "id": 769, "text": "Background" }],
+          [],
+          [{ "id": 310, "text": "Challenge" }],
+          [{ "id": 14914, "text": "Tools and Methodologies" }],
+          [{ "id": 346, "text": "Product Features" }]
+        ]
+      },
+      "id": 4978,
+      "event_id": 5886
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-02-10T07:35:43.060725+00:00",
+      "title": "",
+      "wav": { "file_type": "VIDEO", "name": "Razorpay Abhinav", "id": 1602 },
+      "labels": {
+        "data": [
+          { "id": 31, "text": "Live notes" },
+          { "id": 63, "text": "Likes" },
+          { "id": 28, "text": "Questions/Discussion Guide/Script" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": " good good thing is that when you're as as and when the uncle is happening, I think you can just tag and I prayed. Yeah, yeah. So there. Since the call is happening on at the same time, you're just trying to attack the whole thing. One good thing can be like, if you have, like, a question section as well, right? So it would be great to actually have all those questions displayed on a small pain on the right hand side or something like that.",
+      "tag_id": 4845,
+      "comment": "Likes the idea of tagging questions in real time",
+      "key": "a3073773-2e21-4a05-9568-df2e9e46c2ed",
+      "label_parents": { "data": [[], [], []] },
+      "id": 4845,
+      "event_id": 5753
+    },
+    {
+      "owner": {
+        "name": "Prayag Narula",
+        "avatar": "https://userfocus-avatars.s3.us-east-2.amazonaws.com/v2/white/49.png",
+        "id": 15,
+        "email": "prayag@heymarvin.com"
+      },
+      "sentiment": 0,
+      "project": { "id": 139 },
+      "created_at": "2021-02-02T07:22:06.344500+00:00",
+      "title": "What is your current process for user interviews?",
+      "wav": { "file_type": "VIDEO", "name": "Abhinav - RazorPay", "id": 2472 },
+      "question_id": 7047,
+      "labels": {
+        "data": [
+          { "id": 64, "text": "Goal/Aim" },
+          { "id": 31, "text": "Live notes" },
+          { "id": 402, "text": "Interesting" },
+          { "id": 104, "text": "Challenge" }
+        ]
+      },
+      "is_quote": false,
+      "subtitle": " and even while taking the interview, eso roughly what goes on in my mind is a okay. Like, let's say I have these six areas that I have to cover. All right, Let's say I mean just taking a very wild analogy. If you're talking about like football or something like that, then I'd be like, OK, there's attack. There's difference. There's, like, whatever midfield and whatnot Warner. So there's roughly these six areas that I have to cover. So maybe I'll just, like, take the finance and allegedly, right? Like for if I'm talking to a particular business, I want to understand about how money is coming into their business, how money is going out of their business on then, how they're keeping the books on. Then there's like how they were doing their taxes and their GSD and all like, uh, complaints. And then there is how, like, Let's say they invest their money and what kind of metrics help them to make better financial decisions. So these are roughly six or seven categories off information that I look for. Okay, okay, on. Obviously, this is again probably very in the mid to a very formative kind of a resource that I'm doing on. Then what I do is I get into a conversation and I'm like, Okay, like, uh, start off it off a bit about your business and then, like, let's let's Okay, now, then I understand if it's a marketplace kind of a business, then and be like, OK, so then marketplace. How How is your receivables game kind of structure? Right? And then they start talking about it. And most of my questions initially are, you know, leading questions that kind off, make the person go by their invite it okay into that particular area. And then if I encounter something where I feel like I need toe dive deeper, dive deeper, and then the school kind of narrows, right? So I have these rough six areas that I want to cover on while covering them. Uh, there are already like, let's say, a set off, like 10 problems or opportunities that have identified before. Okay, All right. So, for example, I know that paying, like calculating your tedious when you're a marketplace is like a huge problem. Just random problem, right? So when I'm talking about tedious like, let's say, if I have, like 15 minutes allotted for serious based conversation, I take like, let's say, 12 minutes to just open endedly. Talk about tedious, okay? And then in the last three or five minutes, I also validated this problem. Uh, that hypothesis that I already have, like, if it hasn't come up in the conversation already. All right, So that part is also there s o usually one on one interviews. That is how I structure them on. And also the kind of research cause that I'm doing right now are quite formative. Very open ended. There's no particular aim to them except, like maybe, you know, find out new avenues for the product for, like, growth, etcetera. Right. So considering that it's pretty open and there and I'm doing number like non customers, Hmm. Uh, August, you're going?",
+      "tag_id": 4137,
+      "comment": "Looking to cover a pre-defined areas on the call. If something interesting comes up you go and dig deeper. \n\nFinally goes to validate the hypothesis if it hasn't appeared yet.",
+      "key": "e8fb5e57-ee28-48d0-8cb1-f45ff38b48b6",
+      "label_parents": { "data": [[], [], [], []] },
+      "id": 4137,
+      "event_id": 5047
+    }
+  ]
+}

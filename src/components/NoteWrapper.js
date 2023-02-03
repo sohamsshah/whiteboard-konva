@@ -1,5 +1,5 @@
 import React from "react";
-import { Rect } from "react-konva";
+import { Group, Rect } from "react-konva";
 
 export const NoteWrapper = ({ children, ...restProps }) => {
   return (

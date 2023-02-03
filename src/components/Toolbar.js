@@ -1,10 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import { useShapes } from "../context/shapes-context";
 import { useTools } from "../context/tools-context";
 import { generateCircle } from "../utils/generateCircle";
+import { generateNotes } from "../utils/generateNotes";
 import { generateRectangle } from "../utils/generateRectangle";
 
 export const Toolbar = () => {
+  const [input, setInput] = useState("");
   const { shapes, setShapes } = useShapes();
   const { tools, setTools } = useTools();
 
@@ -74,6 +76,72 @@ export const Toolbar = () => {
     }
   };
 
+  const handleInputChange = (e) => {
+    setInput(e.target.value);
+  };
+
+  const handleImportNotes = async () => {
+    try {
+      // nextBtn.disabled = true;
+      // nextBtn.classList.add("activeLoading");
+      const url = input;
+      const response = await fetch(url);
+      // const result = manageErrors(response);
+      const reader = response.body.getReader();
+      let line = "";
+      const allNotes = [];
+      while (true) {
+        const { value, done } = await reader.read();
+        if (done) {
+          break;
+        }
+        const data = new TextDecoder().decode(value);
+
+        const splits = data.split("\n");
+
+        if (splits.length > 1) {
+          line += splits[0];
+          if (line !== "") {
+            allNotes.push(...JSON.parse(line));
+          }
+          line = "";
+          let i = 1;
+          while (i < splits.length) {
+            if (line !== "") {
+              allNotes.push(...JSON.parse(line));
+              line = "";
+            }
+
+            if (splits[i] !== "") {
+              line += splits[i];
+            }
+            i += 1;
+          }
+        } else {
+          line += data;
+        }
+      }
+      console.log(allNotes);
+      setShapes((prev) => ({ ...prev, notes: generateNotes(allNotes) }));
+      // parent.postMessage(
+      //   { pluginMessage: { type: "create-notes", notes: allNotes } },
+      //   "*"
+      // );
+      // nextBtn.disabled = false;
+      // nextBtn.classList.remove("activeLoading");
+    } catch (error) {
+      if (error === "Error: Link has expired!") {
+        // showError.innerText = `${error}`;
+      } else {
+        // showError.innerText =
+        //   "Can’t recognize this URL. Go to Analyze project on Marvin. Select the notes you want to export. Click on Export to Figma to copy the export link.";
+      }
+    } finally {
+      // nextBtn.disabled = false;
+      // nextBtn.classList.remove("activeLoading");
+    }
+  };
+
   return (
     <div className="controls">
       <button onClick={handleAddRectangle}>Add rectangle</button>
@@ -81,6 +149,10 @@ export const Toolbar = () => {
       <button onClick={handleDragToolToggle}>Toggle Drag</button>
       <button onClick={handleDeleteSelected}>Delete</button>
       <button onClick={handleUndo}>Undo</button>
+      <div>
+        <input onChange={handleInputChange} />
+        <button onClick={handleImportNotes}>Import notes</button>
+      </div>
     </div>
   );
 };
